@@ -1,0 +1,23 @@
+{
+  "healthcare": {
+    "direct": 0.35147926211357117,
+    "indirect": 0.31831252574920654,
+    "energy": 0.3302081823348999,
+    "domain": "healthcare",
+    "composite_formula": "0.351 * direct + 0.318 * indirect + 0.330 * energy"
+  },
+  "transportation": {
+    "direct": 0.35178473591804504,
+    "indirect": 0.3192501366138458,
+    "energy": 0.32896512746810913,
+    "domain": "transportation",
+    "composite_formula": "0.352 * direct + 0.319 * indirect + 0.329 * energy"
+  },
+  "underwater": {
+    "direct": 0.3524409234523773,
+    "indirect": 0.318313866853714,
+    "energy": 0.32924526929855347,
+    "domain": "underwater",
+    "composite_formula": "0.352 * direct + 0.318 * indirect + 0.329 * energy"
+  }
+}
